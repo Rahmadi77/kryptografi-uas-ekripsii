@@ -1,2 +1,1 @@
-# kryptografi-uas-ekripsii
-untuk memenuhi tugas uas
+# Uas-Kryptografi-Semester-Ganjil
